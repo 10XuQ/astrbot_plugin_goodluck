@@ -1,0 +1,8 @@
+{
+  "reply_with_at": {
+    "description": "群聊中回复时是否 @ 发送者",
+    "type": "bool",
+    "default": true,
+    "hint": "开启后，在群聊里查询运势会 @ 你；私聊不受影响。"
+  }
+}
